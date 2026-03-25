@@ -6,7 +6,7 @@ Creating new posts on [our website](https://askcc.com.cn) for bugs or feature re
 
 ## Getting Started
 
-Head over to [our website](https://askcc.com.cn) to download AskCc.
+Head over to [our website](https://askcc.com.cn/download) to download AskCc.
 
 ## Features
 
