@@ -1,6 +1,6 @@
 # AskCc
 
-[AskCc](https://askcc.com.cn) is an AI interview copilot.
+[AskCc](https://askcc.com.cn) is an AI interview agent.
 
 Creating new posts on [our website](https://askcc.com.cn) for bugs or feature requests is much appreciated!
 
